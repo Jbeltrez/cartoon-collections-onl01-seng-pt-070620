@@ -19,5 +19,5 @@ def find_the_cheesex(array)# code an argument here
   while i < 3
   
   cheese_types = ["cheddar", "gouda", "camembert"]
-  cheese_types.include? {([1, 2, 3])}
+  cheese_types.include? {([1])}
 end
