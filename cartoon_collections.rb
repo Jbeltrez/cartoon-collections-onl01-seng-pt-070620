@@ -19,4 +19,5 @@ def find_the_cheesex(array)# code an argument here
   
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_types.include?(cheddar)
+  find_the_cheesex
 end
