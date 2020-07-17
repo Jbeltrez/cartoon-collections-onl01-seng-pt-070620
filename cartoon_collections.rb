@@ -15,8 +15,7 @@ end
 
 def find_the_cheesex(array)# code an argument here
   # the array below is here to help
-  i = 0 
-  while i < 3
+  i = 0
   
   cheese_types = ["cheddar", "gouda", "camembert"]
   cheese_types.include? {cheddar}
