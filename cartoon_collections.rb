@@ -21,5 +21,5 @@ def find_the_cheese(array)# code an argument here
   cheese_types.detect do |cheese| 
   cheese_types.include?(cheese)
     end
-  cheese_types.detect 
+  cheese_types.detect do |cheese|
 end
